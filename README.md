@@ -1,3 +1,5 @@
+⚠️ DO NOT USE THIS REPO FOR YOUR GITHUB ACTIONS WORKFLOW. IT IS USED TO SIMULATE SUPPLY CHAIN ATTACK IN GITHUB
+
 # PR Labeler
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
